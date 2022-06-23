@@ -4,7 +4,7 @@
 
 .uneven {
     background-color: #ffc4d8;
-    font-family: "Verdana", "DejaVu", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     }
 
 
@@ -17,9 +17,7 @@
 
 /* rule for third element*/
 
-.uneven.three{
-    background-color: #ffc4d8;
-    font-family: Verdana, "DejaVu", sans-serif;
+.three{
     font-size: 24px;
     }
 
