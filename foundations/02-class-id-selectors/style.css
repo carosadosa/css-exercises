@@ -1,7 +1,32 @@
 /* style.css */
 
-.uneven {
-background-color: #ffc4d8;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+/* rule for uneven numbers */
 
+.uneven {
+    background-color: #ffc4d8;
+    font-family: "Verdana", "DejaVu", sans-serif;
+    }
+
+
+/* rule for second element */
+
+#second-element {
+    color: hsl(212, 87%, 38%);
+    font-size: 36px;
+    }
+
+/* rule for third element*/
+
+.uneven.three{
+    background-color: #ffc4d8;
+    font-family: Verdana, "DejaVu", sans-serif;
+    font-size: 24px;
+    }
+
+/* rule for fourth element */
+
+#fourth-element{
+    background-color: rgb(153, 233, 101);
+    font-size: 24px;
+    font-weight: bold;
+}
