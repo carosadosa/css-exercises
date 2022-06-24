@@ -1,0 +1,24 @@
+/* style.css */
+
+
+/* style for both buttons */
+
+.button1,
+.button2 {
+
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
+
+/* style only for button1 */
+
+.button1 {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+/* style only for button2 */
+
+.button2 {
+    background-color: #ffff00;
+}
