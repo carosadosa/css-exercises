@@ -1,6 +1,7 @@
 /* style.css */ 
 
 .container .text {
+    text-align: center;
     background-color: #ffff00;
     font-size: 20px;
     color: #ff0000;
